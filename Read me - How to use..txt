@@ -1,0 +1,6 @@
+Copy and paste all the links you want to open into links.txt.
+Open "Auto_tab_opener.bat"
+enjoy~ 😊👍
+
+Note: You must have python installed.
+creator -Birajan_RB
